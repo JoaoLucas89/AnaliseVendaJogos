@@ -3,9 +3,9 @@ Análise de Vendas de Videogames – Power BI
 Este projeto analisa as vendas globais de jogos usando **Power BI** e **Python**.  
 
  O que foi feito?
-✔ Limpeza e modelagem dos dados com Python  
-✔ Criação de KPIs e visualizações no Power BI  
-✔ Previsões de vendas com Prophet  
+- Limpeza e modelagem dos dados com Python  
+- Criação de KPIs e visualizações no Power BI  
+- Previsões de vendas com Prophet  
 
  Tecnologias usadas
 - Power BI 
